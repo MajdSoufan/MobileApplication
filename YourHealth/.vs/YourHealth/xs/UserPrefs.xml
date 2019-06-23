@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A10C20CD-EF9B-4AE5-937D-61A535DA4667}|Default">
+  <MonoDevelop.Ide.ItemProperties.YourHealth automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B63BE675-E46A-471C-BC79-52BF2014EFF7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YourHealth/Main.storyboard">
+    <Files>
+      <File FileName="YourHealth/Main.storyboard" />
+      <File FileName="YourHealth/Controllers/SignUpController.cs" />
+      <File FileName="YourHealth/Controllers/LoginController.cs" />
+      <File FileName="YourHealth/Services/Authentication.cs" />
+      <File FileName="YourHealth/Controllers/SignUpPCPController.cs" />
+      <File FileName="YourHealth/Controllers/LoginController.designer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YourHealth" expanded="True">
+            <Node name="YourHealth" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
